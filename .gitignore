@@ -1,0 +1,11 @@
+/build/
+/cpp
+/rust
+/internal/
+/.vscode/
+*.tmp
+*.pyc
+*.pdf
+/venv
+BASEL
+__pycache__
